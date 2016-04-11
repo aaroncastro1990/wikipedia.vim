@@ -1,0 +1,2 @@
+# wikipedia.vim
+Wikipedia colorscheme
