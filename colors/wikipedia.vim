@@ -37,3 +37,4 @@ hi Visual     term=bold      cterm=none   ctermbg=251
 hi Search     term=bold      cterm=none   ctermbg=224
 hi CursorLine term=none      cterm=none   ctermbg=253
 hi Title      term=none      cterm=none   ctermfg=4
+hi Function   term=none      cterm=none   ctermfg=21
